@@ -1,1 +1,2 @@
 This is fileA
+This is new change fileA
